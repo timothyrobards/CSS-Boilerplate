@@ -10,12 +10,5 @@ Includes:
 - Smooth Scrolling
 
 POST CSS tasks..
-https://cssminifier.com/
+https://cssminifier.com/ <br>
 https://autoprefixer.github.io/
-
-Domains.
-https://www.namecheap.com/
-iwantmyname
-
-Hosting.
-Digital Ocean
